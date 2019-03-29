@@ -28,4 +28,3 @@ Usage — advanced
 ----------------
 
 Open mimiserver.py in your text editor. There are some configuration variables on top. Edit them to suit your needs. 
-
